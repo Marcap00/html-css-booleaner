@@ -14,9 +14,14 @@ header {
     background-size: 35%;
 }
 
-header > img{
-    height: 100%;
-    width: 20%;
+#container-logo{
+    margin: 0 auto;
+    width: 1080px;
+}
+
+.header-image{
+    padding-top: 30px;
+    width: 150px;
 }
 
 h1{
