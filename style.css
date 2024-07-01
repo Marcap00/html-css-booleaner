@@ -50,6 +50,10 @@ h1{
     font-size: 11px;
 }
 
+ul{
+    padding-left: 20px;
+}
+
 table {
     text-align: left;
     padding: 0;
