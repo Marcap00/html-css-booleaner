@@ -18,3 +18,26 @@ header > img{
     height: 100%;
     width: 20%;
 }
+
+h1{
+    margin-bottom: 0;
+    font-size: 35px;
+}
+
+.caption-title, .caption-title-date {
+    color: #888888;
+}
+
+.caption-title{
+    font-size: 18px;
+    
+}
+
+#caption-title-text {
+    color: lightblue;
+}
+
+.caption-title-date {
+    font-size: 12px;
+    margin-top: 5px;
+}
