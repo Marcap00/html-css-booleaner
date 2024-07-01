@@ -3,7 +3,7 @@ body{
 }
 .container {
     margin: 0 auto;
-    width: 1000px;
+    width: 1080px;
 }
 
 header {
@@ -40,4 +40,12 @@ h1{
 .caption-title-date {
     font-size: 12px;
     margin-top: 5px;
+}
+
+#images-section{
+    margin-top: 20px;
+}
+
+.caption-images{
+    font-size: 11px;
 }
