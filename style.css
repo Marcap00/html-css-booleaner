@@ -50,6 +50,25 @@ h1{
     font-size: 11px;
 }
 
-ul {
-    padding: 20px;
+table {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    border-collapse: collapse;
+  }
+
+thead{
+    background-color: rgba(0, 140, 255, 0.6);
+    color: white;
+ }
+
+ .element{
+    width: 20%;
+  }
+
+.row{
+    background-color: rgba(0, 204, 255, 0.2);
 }
+
+
+  
